@@ -1,10 +1,20 @@
-pandas
-numpy
-matplotlib
-pandas-datareader
-yfinance
-plotly
-scikit-learn
-tensorflow
-keras
-streamlit
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+plotly==5.22.0
+
+# Data sources
+pandas-datareader==0.10.0
+yfinance==0.2.40
+
+# ML stack
+scikit-learn==1.4.2
+tensorflow==2.15.0
+keras==2.15.0
+
+# Web app
+streamlit==1.35.0
+
+
+python_version==3.11
