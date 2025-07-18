@@ -27,3 +27,12 @@ A good hands-on exercise in:
    pip install -r requirements.txt
 3.Run the app
 streamlit run streamlit_app.py
+
+###🛠 Tech Stack
+Python
+TensorFlow
+Keras
+Scikit-learn
+YFinance
+Pandas, NumPy, Matplotlib
+Streamlit
