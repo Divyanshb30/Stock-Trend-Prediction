@@ -28,7 +28,7 @@ A good hands-on exercise in:
 3.Run the app
 streamlit run streamlit_app.py
 
-###🛠 Tech Stack
+### 🛠 Tech Stack
 Python
 TensorFlow
 Keras
