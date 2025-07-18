@@ -29,9 +29,9 @@ A good hands-on exercise in:
 streamlit run streamlit_app.py
 
 ### 🛠 Tech Stack
--Python
--Tensorflow
--Keras
--YFinance
--Pandas, NumPy, Matplotlib
--Streamlit
+- Python
+- Tensorflow
+- Keras
+- YFinance
+- Pandas, NumPy, Matplotlib
+- Streamlit
