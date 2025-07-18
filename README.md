@@ -30,9 +30,15 @@ streamlit run streamlit_app.py
 
 ### 🛠 Tech Stack
 Python
+
 TensorFlow
+
 Keras
+
 Scikit-learn
+
 YFinance
+
 Pandas, NumPy, Matplotlib
+
 Streamlit
